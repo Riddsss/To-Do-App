@@ -1,2 +1,2 @@
 # To-Do-App
-To-Do-Application using MERN STACK, where React.js was used for front-end, Express.js and Node.js was used for backend, and MongoDB was used for Database  
+Welcome to my MERN To-Do Application! This project combines the power of React.js for the front end, Express.js and Node.js for the back end, and MongoDB for the database. This user-friendly interface allows you to effortlessly create, update, and delete tasks, while real-time updates keep you on top of your to-do list. 
